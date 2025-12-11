@@ -1,0 +1,5 @@
+{
+  "name": "Relatório Operacional Dashboard",
+  "description": "Dashboard analítico para visualização de escalas de serviço, horas trabalhadas e estatísticas operacionais com exportação para PDF.",
+  "requestFramePermissions": []
+}
